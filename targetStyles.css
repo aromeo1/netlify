@@ -24,9 +24,11 @@ p{
   overflow: hidden;
   padding-left: 16px;
   padding-right: 16px;
-  position: relative;
+  position: absolute;
+  right: 10px;
   text-align: left;
   text-decoration: none;
+  top: 10px;
   transition: box-shadow .15s,transform .15s;
   user-select: none;
   -webkit-user-select: none;
